@@ -1,0 +1,23 @@
+{
+  "name": "my-first-electron-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisshii0313/my-first-electron-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisshii0313/my-first-electron-app/issues"
+  },
+  "homepage": "https://github.com/nisshii0313/my-first-electron-app#readme",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
